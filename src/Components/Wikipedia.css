@@ -1,0 +1,12 @@
+.search_container{
+    display: grid;
+    place-items: center;
+    padding: 1rem;
+}
+.search_bar{
+    width: 70%;
+    max-width: 500px;
+    padding: 10px;
+    outline: none;
+    border-radius: 5px;
+}
